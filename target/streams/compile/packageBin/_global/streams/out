@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/untitled_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Silvio.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/Silvio.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Silvio.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/Silvio.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	code[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/code[0m
+[0m[[0m[0mdebug[0m] [0m[0m	code/ExecuteBankAccount.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/code/ExecuteBankAccount.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	code/BankAccount.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/code/BankAccount.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	code/ExecuteBankAccount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/code/ExecuteBankAccount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	code/BankAccount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/code/BankAccount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	code/ExecuteBankAccount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/code/ExecuteBankAccount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Basics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/Basics$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Basics.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/Basics.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Basics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/Basics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/I543162/Documents/GitHub/scala_light_speed/target/scala-3.1.3/classes/main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
