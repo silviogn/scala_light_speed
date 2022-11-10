@@ -10,7 +10,7 @@ object CurriedFunctions extends App {
   println(mcatCurried("Hello ")("Silvio"))
 
   val fcat = (s:String, s2:String) => s + s2
-  val fcatCurried = fcat.curried  
+  val fcatCurried = fcat.curried
 
   println(fcat("Hello ","Silvio"))
   println(fcatCurried("Hello ")("Silvio"))
