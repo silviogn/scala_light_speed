@@ -85,7 +85,7 @@ object ObjectOriented extends App {
 
   MySingleton.apply(900)
   // or
-    println(MySingleton(5))
+  println(MySingleton(5))
 
   object Animal { // the class animal and the object animal are code companions
   // companions can access each other private and protected
