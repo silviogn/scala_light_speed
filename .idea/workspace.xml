@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb39eb6a-1a07-4a39-a8be-55b6e658deb7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/functional_programming/FunctionalProgramming.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/advanced/Advanced.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/pattern/matching/PatternMatching.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/oo/ObjectOriented.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/oo/ObjectOriented.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/Factorial.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/Factorial.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/CurriedFunctions.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/CurriedFunctions.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/PartialApplication.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/PartialApplication.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/UsingFunctionAsParameter.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/UsingFunctionAsParameter.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/oo/ObjectOriented.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/oo/ObjectOriented.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,18 +56,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/silvionormeygomez/Documents/GitHub/Scala_Light_Speed/scala_light_speed",
+    "last_opened_file_path": "/Users/I543162/Documents/GitHub/scala_light_speed",
     "scala_project_settings_configurable.last_selected_tab_index": "0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FunctionalProgramming">
-    <configuration name="CurriedFunctions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="functional.CurriedFunctions" />
+  <component name="RunManager" selected="Application.Advanced">
+    <configuration name="Advanced" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.Advanced" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functional.*" />
+          <option name="PATTERN" value="advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="code.Factorial" />
+    <configuration name="CurriedFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="functional.CurriedFunctions" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.*" />
+          <option name="PATTERN" value="functional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Advanced" />
         <item itemvalue="Application.FunctionalProgramming" />
         <item itemvalue="Application.ObjectOriented" />
         <item itemvalue="Application.CurriedFunctions" />
         <item itemvalue="Application.PartialApplication" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
