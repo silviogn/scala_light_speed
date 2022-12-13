@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb39eb6a-1a07-4a39-a8be-55b6e658deb7" name="Changes" comment="" />
+    <list default="true" id="cb39eb6a-1a07-4a39-a8be-55b6e658deb7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Basics.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/Basics.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/Silvio.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/Silvio.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/advanced/Advanced.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/advanced/Advanced.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/BankAccount.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/BankAccount.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/ExecuteBankAccount.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/ExecuteBankAccount.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/Factorial.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/code/Factorial.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/CurriedFunctions.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/CurriedFunctions.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/PartialApplication.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/PartialApplication.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/UsingFunctionAsParameter.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional/UsingFunctionAsParameter.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional_programming/FunctionalProgramming.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/functional_programming/FunctionalProgramming.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/main$package.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/main$package.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/main.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/main.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/oo/ObjectOriented.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/oo/ObjectOriented.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.1.3/classes/pattern/matching/PatternMatching.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.1.3/classes/pattern/matching/PatternMatching.tasty" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,15 +66,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/silvionormeygomez/Documents/GitHub/Scala_Light_Speed&quot;,
-    &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/I543162/Documents/GitHub/scala_light_speed",
+    "scala_project_settings_configurable.last_selected_tab_index": "0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Advanced">
     <configuration name="Advanced" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="advanced.Advanced" />
